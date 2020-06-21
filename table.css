@@ -1,0 +1,27 @@
+ body{
+    background: lightcyan; 
+}
+h1{
+    text-align: center;
+    color:red;
+    background-color: black;
+font-size: xx-large;
+font-family: monospace;
+font-style: italic;
+}
+
+h2{
+    color:red;
+    background-color: black;
+    font-size: xx-large;
+    font-family: monospace;
+}
+tr{
+    color: black;
+    background-color:white;
+    font-style: italic;
+}
+p{color: black;
+font-size: large;
+font-style: italic;
+}
